@@ -1,8 +1,8 @@
-# DaVinci App Template for davinci-api - ClickToDial and ScreenPop 
-This project is a sample of using DaVinci API to Update Interaction data and send to Provider.
+# DaVinci App Template for davinci-api - ScreenPop 
+This project is a sample of using DaVinci API to trigger screenPop in Dynamics.
 
 ## Deploy Code
-Deploy the two files, [index.html] and [davinci-api-1-0-46.js] in any Web server.
+Deploy the two files, index.html and davinci-api-1-0-46.js in any Web server.
 
 ## Creating the Application in Studio
 * Open the Creators studio (https://studio.contactcanvas.com) and navigate to the Edit Apps Section
